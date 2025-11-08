@@ -40,9 +40,12 @@
 ---
 
 <h3 align="left">🧩 Venha conhecer meus projetos de portfólio em Power BI.</h3>
+
+---
+
 <ul>
   <li>
-    <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros com base em dados de vendas fictícios.<br>
+    <b>1️⃣ 📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros com base em dados de vendas fictícios.<br>
     🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Mais detalhes do projeto no GitHub</a>
     <br><br>
     🌐 <b>Acesso ao Dashboard Online:</b><br>
@@ -51,3 +54,5 @@
     </a>
   </li>
 </ul>
+
+---
