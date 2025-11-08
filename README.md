@@ -42,7 +42,7 @@
 <h3 align="left">🧩 Venha conhecer os meus projetos de portfólio em Power Bi</h3>
 <ul>
   <li>
-    <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros com base no banco AdventureWorks.<br>
+    <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros.<br>
     🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Ver no GitHub</a>
   </li>
   <br>
