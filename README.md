@@ -39,15 +39,15 @@
 
 ---
 
-<h3 align="left">🧩 Venha conhecer os meus projetos de portfólio em Power Bi</h3>
+<h3 align="left">🧩 Venha conhecer meus projetos de portfólio em Power BI</h3>
 <ul>
   <li>
-    <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros.<br>
-    🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Ver no GitHub</a>
+    <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros com base em dados de vendas fictícios.<br>
+    🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Mais detalhes do projeto no GitHub?</a>
+    <br>
+    🌐 <b>Acesso ao Dashboard Online:</b><br>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiYjI5Y2E4Y2MtNzkwMy00YjFiLWFmYTYtOGFlYjZlM2E4YmM2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">
+      👉 <b>Clique aqui para acessar o Dashboard Interativo</b>
+    </a>
   </li>
-  ## 🔗 Acesso ao Dashboard Online
-Você pode visualizar o relatório completo no Power BI Service:  
-👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=eyJrIjoiYjI5Y2E4Y2MtNzkwMy00YjFiLWFmYTYtOGFlYjZlM2E4YmM2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
-
-  <br>
 </ul>
