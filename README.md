@@ -43,7 +43,7 @@
 <ul>
   <li>
     <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros com base no banco AdventureWorks.<br>
-    🔗 <a href="https://github.com/kahhhexe/Dashboard-Vendas-PowerBI" target="_blank">Ver no GitHub</a>
+    🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Ver no GitHub</a>
   </li>
   <br>
 </ul>
