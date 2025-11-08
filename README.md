@@ -46,13 +46,4 @@
     🔗 <a href="https://github.com/kahhhexe/Dashboard-Vendas-PowerBI" target="_blank">Ver no GitHub</a>
   </li>
   <br>
-  <li>
-    <b>💾 SQL Insights - AdventureWorks:</b> Consultas SQL avançadas para descobrir padrões de vendas e performance.<br>
-    🔗 <a href="https://github.com/kahhhexe/SQL-AdventureWorks" target="_blank">Ver no GitHub</a>
-  </li>
-  <br>
-  <li>
-    <b>🐍 Automação de Relatórios com Python:</b> Script para gerar relatórios automáticos em Excel e PDF.<br>
-    🔗 <a href="https://github.com/kahhhexe/Automacao-Relatorios" target="_blank">Ver no GitHub</a>
-  </li>
 </ul>
