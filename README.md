@@ -45,5 +45,9 @@
     <b>📊 Dashboard de Vendas - Power BI:</b> Análise interativa de vendas e lucros.<br>
     🔗 <a href="https://github.com/kahhhexe/Sales-Overview" target="_blank">Ver no GitHub</a>
   </li>
+  ## 🔗 Acesso ao Dashboard Online
+Você pode visualizar o relatório completo no Power BI Service:  
+👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=eyJrIjoiYjI5Y2E4Y2MtNzkwMy00YjFiLWFmYTYtOGFlYjZlM2E4YmM2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
   <br>
 </ul>
